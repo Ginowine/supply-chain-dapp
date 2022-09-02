@@ -1,4 +1,4 @@
-pragma solidity >=0.7.11;
+pragma solidity >=0.7.6;
 
 contract supplyChain {
     uint32 public product_id = 0;   // Product ID
