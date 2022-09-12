@@ -71,7 +71,7 @@ contract ERC20Token is ERC20Interface {
     }
 
     // Return the total number of tokens in circulation
-    function totalSupply()public view override  returns (uint256 totSupp) {
+    function totalSupply()public view override returns (uint256 totSupp) {
         return totSupply;
     }
 }
